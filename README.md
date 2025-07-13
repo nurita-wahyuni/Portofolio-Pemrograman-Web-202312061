@@ -103,12 +103,12 @@ git push -u origin tugas/modul-6-phpdanMysql
 
 ## 🗂️ Struktur Folder
 
-- [Modul1](./Modul1/)
-- [Modul2](./Modul2/)
-- [Modul3](./Modul3/)
-- [Modul4](./Modul4/)
-- [Modul5](./Modul5/)
-- [Modul6](./Modul6/)
+- [Modul1](./modul1/)
+- [Modul2](./modul2/)
+- [Modul3](./modul3/)
+- [Modul4](./modul4/)
+- [Modul5](./modul5/)
+- [Modul6](./modul6/)
 - [README.md](./README.md)
 
 ## penutup
