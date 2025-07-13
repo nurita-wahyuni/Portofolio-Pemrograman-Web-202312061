@@ -12,7 +12,7 @@ Repositori ini adalah kumpulan hasil kerja saya selama praktikum Pemrograman Web
    - [Modul 1-3 - Struktur Awal](#modul-1-3---struktur-awal)
    - [Modul 4-6 - Pengembangan Berkelanjutan](#modul-4-6---pengembangan-berkelanjutan)
 4. [Struktur Folder](#🗂️ struktur-folder)
-5. [Penutup]
+5. [Penutup] (#penutup)
 
 ---
 
@@ -103,16 +103,14 @@ git push -u origin tugas/modul-6-phpdanMysql
 
 ## 🗂️ Struktur Folder
 
-```bash
-Portofolio-Pemrograman-Web-[NIM]/
-│
-├── Modul1/
-├── Modul2/
-├── Modul3/
-├── Modul4/
-├── Modul5/
-├── Modul6/
-└── README.md
+- [Modul1](./Modul1/)
+- [Modul2](./Modul2/)
+- [Modul3](./Modul3/)
+- [Modul4](./Modul4/)
+- [Modul5](./Modul5/)
+- [Modul6](./Modul6/)
+- [README.md](./README.md)
 
+## penutup
 Dokumentasi ini diharapkan membantu proses tracking, review, dan showcase dari semua proses pembelajaran selama praktikum Pemrograman Web. Semua kode dapat dicek dan diuji ulang sesuai struktur yang telah dibuat.
 Terima kasih sudah membaca! ✨
