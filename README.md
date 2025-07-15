@@ -254,36 +254,6 @@ Untuk kontribusi atau perbaikan:
 4. Push ke branch (`git push origin feature/improvement`)
 5. Buat Pull Request
 
-## 📈 Progres Pembelajaran
-
-### 📅 Timeline Pembelajaran
-
-| Modul | Topik | Status | Kemajuan |
-|-------|-------|--------|----------|
-| 1 | HTML Fundamentals | ✅ Selesai | 100% |
-| 2 | CSS & Responsive Design | ✅ Selesai | 100% |
-| 3 | Bootstrap Framework | ✅ Selesai | 100% |
-| 4 | JavaScript Programming | ✅ Selesai | 100% |
-| 5 | PHP Fundamentals | ✅ Selesai | 100% |
-| 6 | PHP & Database Integration | ✅ Selesai | 100% |
-
-### 🎯 Skill yang Dikuasai
-
-**Frontend Development:**
-- ✅ HTML5 Semantic Structure
-- ✅ CSS Grid & Flexbox
-- ✅ Responsive Web Design
-- ✅ Bootstrap Framework
-- ✅ JavaScript DOM Manipulation
-- ✅ Form Validation
-
-**Backend Development:**
-- ✅ PHP Programming
-- ✅ Database Integration
-- ✅ CRUD Operations
-- ✅ Server-side Validation
-- ✅ Security Implementation
-
 ## 📈 Pembelajaran yang Diperoleh
 
 Melalui proyek ini, mahasiswa mampu memahami dan mengimplementasikan:
@@ -293,25 +263,6 @@ Melalui proyek ini, mahasiswa mampu memahami dan mengimplementasikan:
 3. **Pembuatan aplikasi interaktif dengan JavaScript** - Menambahkan dinamisme pada website
 4. **Integrasi server-side dengan PHP dan MySQL** - Membangun aplikasi full-stack
 5. **Best practices dalam security web** - Implementasi keamanan dasar
-
-### 📊 Pencapaian Kompetensi
-
-- **Technical Skills**: 90% - Mampu mengembangkan aplikasi web full-stack
-- **Problem Solving**: 85% - Dapat mengatasi berbagai tantangan dalam development
-- **Security Awareness**: 80% - Memahami dan menerapkan praktik keamanan dasar
-- **Code Quality**: 85% - Menulis kode yang clean dan maintainable
-
-## 🚀 Pengembangan Selanjutnya
-
-**Rencana Pengembangan Lanjutan:**
-- 🌐 Implementasi framework modern (React/Vue.js)
-- 🔐 Sistem autentikasi dengan OAuth 2.0
-- 🔌 Integrasi API RESTful
-- 📊 Dashboard analytics dan reporting
-- 🗺️ Deployment ke cloud hosting
-- 📱 Progressive Web App (PWA)
-- 📦 Containerization dengan Docker
-- 🔄 CI/CD pipeline implementation
 
 ## 📄 Catatan
 
@@ -327,7 +278,7 @@ Melalui proyek ini, mahasiswa mampu memahami dan mengimplementasikan:
 - 📧 Email: nuritawahyuni4@gmail.com
 - 🏢 Institusi: STITEK Bontang
 - 🆔 NIM: 202312061
-- 📍 GitHub: [Portfolio Link]
+- 📍 GitHub: https://github.com/nurita-wahyuni/praktikum-pweb
 
 ---
 
