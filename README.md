@@ -68,7 +68,7 @@ git push -u origin tugas/modul-1-3
 
 ---
 
-### modul 4-6 pengembangan-berkelanjutan 
+### Modul 4-6 - Pengembangan Berkelanjutan 
 Setiap kali modul selesai, lakukan langkah berikut:
 
 #Pastikan berada di main dan menarik update terbaru
