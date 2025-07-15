@@ -6,9 +6,22 @@
 
 ---
 
-## 📋 Deskripsi Project
+## 📋 Deskripsi Proyek
 
-Repository ini berisi kumpulan tugas dan project dari mata kuliah Pemrograman Web yang mencakup pembelajaran progresif dari HTML dasar hingga aplikasi web dinamis dengan PHP dan database. Setiap modul dirancang untuk membangun pemahaman yang komprehensif tentang teknologi web modern.
+Repository ini merupakan kumpulan lengkap tugas dan project dari mata kuliah Pemrograman Web yang dirancang untuk memberikan pengalaman pembelajaran progresif dari HTML dasar hingga aplikasi web dinamis dengan PHP dan database. Proyek ini mencakup 6 modul pembelajaran yang masing-masing membangun fondasi teknologi web modern.
+
+**Tujuan Proyek:**
+- Memahami fundamental teknologi web (HTML, CSS, JavaScript)
+- Menguasai framework modern (Bootstrap)
+- Mempelajari server-side programming (PHP)
+- Mengintegrasikan database dengan aplikasi web
+- Mengembangkan aplikasi web full-stack yang responsive dan aman
+
+**Manfaat Pembelajaran:**
+- Kemampuan membangun website dari nol hingga deployment
+- Pemahaman mendalam tentang client-server architecture
+- Keterampilan debugging dan problem-solving
+- Penerapan best practices dalam web development
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -21,45 +34,43 @@ Repository ini berisi kumpulan tugas dan project dari mata kuliah Pemrograman We
 | **PHP** | 7.4+ | Server-side scripting dan backend logic |
 | **MySQL** | 8.0+ | Database management system |
 
-## 📁 Struktur Project
+## 📁 Struktur Folder
 
 ```
-Portofolio-Pemrograman-WEB-202312056/
-├── Modul-1/                    # HTML Fundamentals
-│   ├── pendaftaranmahasiswa.html     # Form pendaftaran mahasiswa
-│   └── STITEK Logo 2.png      # Asset logo kampus
-├── Modul-2/                    # CSS & Responsive Design
-│   ├── Halamanweb_css.html     # HTML structure
-├── Modul-3/                    # Bootstrap Framework
-│   ├── Halamanweb_css.html   # Company profile dengan Bootstrap
-├── Modul-4/                    # JavaScript Programming
-│   └── Tugas.html             # E-commerce dengan JavaScript
-├── Modul-5/                    # PHP Fundamentals
-│   └── bukutamu.php             # Buku tamu digital dengan validasi
-├── Modul-6/                    # PHP & Database Integration
-│   └── Crud Toko Online/      # Aplikasi CRUD lengkap
-│       ├── index.php          # Halaman utama
-│       ├── tambah.php         # Form tambah produk
-│       ├── edit.php           # Form edit produk
-│       ├── hapus.php          # Fungsi hapus produk
-│       ├── koneksi_toko.php   # Konfigurasi database
-│       └── db_toko.sql        # Menyimpan data
+Portofolio-Pemrograman-Web-202312061/
+├── modul1/                     # HTML Fundamentals
+│   └── pendaftaranmahasiswa.html # Form pendaftaran mahasiswa
+├── modul2/                     # CSS & Responsive Design
+│   └── halamanweb_css.html     # HTML structure dengan CSS
+├── modul3/                     # Bootstrap Framework
+│   └── company_profile.html    # Company profile dengan Bootstrap
+├── modul4/                     # JavaScript Programming
+│   └── mini_ecomerce.html      # Mini E-commerce dengan JavaScript
+├── modul5/                     # PHP Fundamentals
+│   └── bukutamu.php            # Buku tamu digital dengan validasi
+├── modul6/                     # PHP & Database Integration
+│   ├── index.php               # Halaman utama
+│   ├── tambah.php              # Form tambah produk
+│   ├── edit.php                # Form edit produk
+│   ├── hapus.php               # Fungsi hapus produk
+│   ├── koneksi.php             # Konfigurasi database
+│   └── db_toko.sql             # Script database
 └── README.md                   # Dokumentasi project
 ```
 
-## 🎯 Detail Modul Pembelajaran
+## 🎯 Detail Setiap Modul
 
 ### 📝 Modul 1: HTML Fundamentals
-**File:** `Modul-1/tugas_modul_1.html`
+**File:** `modul1/pendaftaranmahasiswa.html`
 
-**Deskripsi:** Formulir pendaftaran mahasiswa baru yang mendemonstrasikan penggunaan elemen HTML dasar.
+**Deskripsi:** Formulir pendaftaran mahasiswa baru yang mendemonstrasikan penggunaan elemen HTML dasar dengan struktur semantik dan validasi form.
 
 **Fitur:**
 - Form validation dengan atribut `required`
 - Input types: text, email, radio, checkbox, select, textarea
 - Fieldset untuk grouping form elements
 - Inline CSS styling
-- External link integration
+- Struktur HTML5 semantic
 
 **Konsep yang Dipelajari:**
 - Struktur HTML5 semantic
@@ -70,15 +81,16 @@ Portofolio-Pemrograman-WEB-202312056/
 ---
 
 ### 🎨 Modul 2: CSS & Responsive Design
-**Files:** `Modul-2/tugas_modul2.html`, `Modul-2/tugas_modul2.css`
+**File:** `modul2/halamanweb_css.html`
 
-**Deskripsi:** Implementasi CSS Grid Layout dengan responsive design untuk berbagai ukuran layar.
+**Deskripsi:** Implementasi CSS Grid Layout dengan responsive design untuk berbagai ukuran layar dan styling modern.
 
 **Fitur:**
 - CSS Grid Layout system
-- Responsive breakpoints (768px, 480px)
+- Responsive breakpoints untuk berbagai device
 - Custom color scheme dan typography
 - Mobile-first approach
+- External CSS styling
 
 **Konsep yang Dipelajari:**
 - CSS Grid vs Flexbox
@@ -89,9 +101,9 @@ Portofolio-Pemrograman-WEB-202312056/
 ---
 
 ### 🚀 Modul 3: Bootstrap Framework
-**File:** `Modul-3/Tugas - Modul 3.html`
+**File:** `modul3/company_profile.html`
 
-**Deskripsi:** Company profile "BravoTech" menggunakan Bootstrap framework untuk rapid development.
+**Deskripsi:** Company profile menggunakan Bootstrap framework untuk rapid development dan responsive design.
 
 **Fitur:**
 - Responsive navigation dengan hamburger menu
@@ -109,9 +121,9 @@ Portofolio-Pemrograman-WEB-202312056/
 ---
 
 ### ⚡ Modul 4: JavaScript Programming
-**File:** `Modul-4/Tugas.html`
+**File:** `modul4/mini_ecomerce.html`
 
-**Deskripsi:** Aplikasi e-commerce "Toko Elektronik Cepat" dengan JavaScript interaktivity.
+**Deskripsi:** Aplikasi mini e-commerce dengan JavaScript interaktivity dan dynamic content.
 
 **Fitur:**
 - Real-time clock display
@@ -131,9 +143,9 @@ Portofolio-Pemrograman-WEB-202312056/
 ---
 
 ### 🔧 Modul 5: PHP Fundamentals
-**File:** `Modul-5/tugas.php`
+**File:** `modul5/bukutamu.php`
 
-**Deskripsi:** Buku tamu digital STITEK Bontang dengan server-side validation.
+**Deskripsi:** Buku tamu digital STITEK Bontang dengan server-side validation dan processing.
 
 **Fitur:**
 - Server-side form processing
@@ -152,9 +164,9 @@ Portofolio-Pemrograman-WEB-202312056/
 ---
 
 ### 🗄️ Modul 6: PHP & Database Integration
-**Directory:** `Modul-6/Crud Toko Online/`
+**Directory:** `modul6/`
 
-**Deskripsi:** Aplikasi CRUD (Create, Read, Update, Delete) untuk manajemen produk toko online.
+**Deskripsi:** Aplikasi CRUD (Create, Read, Update, Delete) untuk manajemen produk toko online dengan integrasi database MySQL.
 
 **Fitur:**
 - Database connection dengan MySQLi
@@ -169,7 +181,8 @@ Portofolio-Pemrograman-WEB-202312056/
 - `tambah.php` - Form tambah produk baru
 - `edit.php` - Form edit produk existing
 - `hapus.php` - Fungsi delete produk
-- `koneksi_toko.php` - Database configuration
+- `koneksi.php` - Database configuration
+- `db_toko.sql` - Script database
 
 **Konsep yang Dipelajari:**
 - Database design dan normalization
@@ -178,77 +191,16 @@ Portofolio-Pemrograman-WEB-202312056/
 - Security considerations untuk database
 - Error handling dan debugging
 
-## 🚀 Cara Menjalankan Project
+## 🚀 Cara Menjalankan Proyek
 
-### Prerequisites
-- **Web Server:** Apache/Nginx (XAMPP, WAMP, atau LAMP)
-- **PHP:** Version 7.4 atau lebih tinggi
-- **MySQL:** Version 8.0 atau lebih tinggi
-- **Browser:** Chrome, Firefox, Safari, atau Edge (versi terbaru)
-
-### Setup Instructions
-
-#### 1. Clone Repository
-```bash
-git clone [repository-url]
-cd Portofolio-Pemrograman-WEB-202312056
-```
-
-#### 2. Setup Web Server
-- Install XAMPP/WAMP/LAMP
-- Start Apache dan MySQL services
-- Copy project folder ke `htdocs` (XAMPP) atau `www` (WAMP)
-
-#### 3. Database Setup (untuk Modul 6)
-```sql
--- Buat database
-CREATE DATABASE db_toko;
-
--- Gunakan database
-USE db_toko;
-
--- Buat tabel produk
-CREATE TABLE produk (
-    id_produk INT AUTO_INCREMENT PRIMARY KEY,
-    nama_produk VARCHAR(100) NOT NULL,
-    harga DECIMAL(10,2) NOT NULL,
-    stok INT NOT NULL
-);
-
--- Insert sample data
-INSERT INTO produk (nama_produk, harga, stok) VALUES
-('Laptop Gaming', 15000000.00, 5),
-('Mouse Wireless', 250000.00, 20),
-('Keyboard Mechanical', 800000.00, 15);
-```
-
-#### 4. Konfigurasi Database
-Edit file `Modul-6/Crud Toko Online/koneksi_toko.php`:
-```php
-<?php
-$servername = "localhost";
-$username = "root";        // Sesuaikan dengan username MySQL Anda
-$password = "";            // Sesuaikan dengan password MySQL Anda
-$dbname = "db_toko";
-
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-if ($conn->connect_error) {
-    die("Koneksi gagal: " . $conn->connect_error);
-}
-?>
-```
-
-### 🌐 Akses Project
-
-| Modul | URL | Deskripsi |
-|-------|-----|-----------|
-| Modul 1 | `http://localhost/[project-folder]/Modul-1/tugas_modul_1.html` | Form Pendaftaran |
-| Modul 2 | `http://localhost/[project-folder]/Modul-2/tugas_modul2.html` | CSS Grid Layout |
-| Modul 3 | `http://localhost/[project-folder]/Modul-3/Tugas - Modul 3.html` | Bootstrap Company Profile |
-| Modul 4 | `http://localhost/[project-folder]/Modul-4/Tugas.html` | JavaScript E-commerce |
-| Modul 5 | `http://localhost/[project-folder]/Modul-5/tugas.php` | PHP Buku Tamu |
-| Modul 6 | `http://localhost/[project-folder]/Modul-6/Crud Toko Online/` | PHP CRUD Application |
+1. **Setup Web Server:**
+   - Install XAMPP/WAMP/LAMP dan aktifkan layanan Apache dan MySQL.
+   - Salin folder proyek ke `htdocs` (XAMPP) atau `www` (WAMP).
+2. **Setup Database:**
+   - Buat database dan impor `db_toko.sql`.
+   - Sesuaikan koneksi pada `koneksi.php`.
+3. **Akses Proyek:**
+   - Modul diakses melalui URL seperti `http://localhost/[project-folder]/modul1/pendaftaranmahasiswa.html`.
 
 ## 📱 Responsive Design
 
@@ -302,12 +254,82 @@ Untuk kontribusi atau perbaikan:
 4. Push ke branch (`git push origin feature/improvement`)
 5. Buat Pull Request
 
-## 📞 Contact
+## 📈 Progres Pembelajaran
 
-**Nurita**  
-- Email: nuritawahyuni4@gmail.com
-- Institution: STITEK Bontang
-- NIM: 202312061
+### 📅 Timeline Pembelajaran
+
+| Modul | Topik | Status | Kemajuan |
+|-------|-------|--------|----------|
+| 1 | HTML Fundamentals | ✅ Selesai | 100% |
+| 2 | CSS & Responsive Design | ✅ Selesai | 100% |
+| 3 | Bootstrap Framework | ✅ Selesai | 100% |
+| 4 | JavaScript Programming | ✅ Selesai | 100% |
+| 5 | PHP Fundamentals | ✅ Selesai | 100% |
+| 6 | PHP & Database Integration | ✅ Selesai | 100% |
+
+### 🎯 Skill yang Dikuasai
+
+**Frontend Development:**
+- ✅ HTML5 Semantic Structure
+- ✅ CSS Grid & Flexbox
+- ✅ Responsive Web Design
+- ✅ Bootstrap Framework
+- ✅ JavaScript DOM Manipulation
+- ✅ Form Validation
+
+**Backend Development:**
+- ✅ PHP Programming
+- ✅ Database Integration
+- ✅ CRUD Operations
+- ✅ Server-side Validation
+- ✅ Security Implementation
+
+## 📈 Pembelajaran yang Diperoleh
+
+Melalui proyek ini, mahasiswa mampu memahami dan mengimplementasikan:
+
+1. **Struktur HTML semantik dan responsif** - Membangun fondasi yang kuat untuk web development
+2. **Penggunaan CSS modern** - Styling yang efektif dan maintainable
+3. **Pembuatan aplikasi interaktif dengan JavaScript** - Menambahkan dinamisme pada website
+4. **Integrasi server-side dengan PHP dan MySQL** - Membangun aplikasi full-stack
+5. **Best practices dalam security web** - Implementasi keamanan dasar
+
+### 📊 Pencapaian Kompetensi
+
+- **Technical Skills**: 90% - Mampu mengembangkan aplikasi web full-stack
+- **Problem Solving**: 85% - Dapat mengatasi berbagai tantangan dalam development
+- **Security Awareness**: 80% - Memahami dan menerapkan praktik keamanan dasar
+- **Code Quality**: 85% - Menulis kode yang clean dan maintainable
+
+## 🚀 Pengembangan Selanjutnya
+
+**Rencana Pengembangan Lanjutan:**
+- 🌐 Implementasi framework modern (React/Vue.js)
+- 🔐 Sistem autentikasi dengan OAuth 2.0
+- 🔌 Integrasi API RESTful
+- 📊 Dashboard analytics dan reporting
+- 🗺️ Deployment ke cloud hosting
+- 📱 Progressive Web App (PWA)
+- 📦 Containerization dengan Docker
+- 🔄 CI/CD pipeline implementation
+
+## 📄 Catatan
+
+**Catatan Penting:**
+- Proyek ini disusun sebagai bagian dari mata kuliah Pemrograman Web
+- Semua modul telah ditest pada environment local development
+- Untuk production deployment, diperlukan konfigurasi security tambahan
+- Documentation ini akan terus diperbarui seiring perkembangan proyek
+
+## 📞 Kontak
+
+**Nurita Wahyuni**  
+- 📧 Email: nuritawahyuni4@gmail.com
+- 🏢 Institusi: STITEK Bontang
+- 🆔 NIM: 202312061
+- 📍 GitHub: [Portfolio Link]
+
+---
 
 ## 📄 License
 
@@ -315,4 +337,4 @@ Project ini dibuat untuk keperluan akademik mata kuliah Pemrograman Web di STITE
 
 ---
 
-**© 2025 Nurita Wahyuni - STITEK Bontang**
+**© 2025 Nurita Wahyuni - STITEK Bontang | Portfolio Pemrograman Web**
