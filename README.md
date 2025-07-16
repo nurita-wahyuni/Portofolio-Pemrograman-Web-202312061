@@ -200,7 +200,7 @@ Portofolio-Pemrograman-Web-202312061/
    - Buat database dan impor `db_toko.sql`.
    - Sesuaikan koneksi pada `koneksi.php`.
 3. **Akses Proyek:**
-   - Modul diakses melalui URL seperti `https://github.com/nurita-wahyuni/praktikum-pweb/modul1/pendaftaranmahasiswa.html`.
+   - Modul diakses melalui URL seperti `https://github.com/nurita-wahyuni/Praktikum-Pemrograman-Web-202312061.git`.
 
 ## 📱 Responsive Design
 
