@@ -278,7 +278,7 @@ Melalui proyek ini, mahasiswa mampu memahami dan mengimplementasikan:
 - 📧 Email: nuritawahyuni4@gmail.com
 - 🏢 Institusi: STITEK Bontang
 - 🆔 NIM: 202312061
-- 📍 GitHub: https://github.com/nurita-wahyuni/praktikum-pweb
+- 📍 GitHub: https://github.com/nurita-wahyuni/Praktikum-Pemrograman-Web-202312061.git
 
 ---
 
